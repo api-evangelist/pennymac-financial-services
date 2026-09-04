@@ -24,6 +24,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.pennymacfinancial.com', status: 301, note: 'declared website redirects to https://pfsi.pennymac.com/home/default.aspx — a different registrable domain (pennymacfinancial.com -> pennymac.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: ''
 tags:
   - Financial-Services
