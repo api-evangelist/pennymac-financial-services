@@ -28,15 +28,17 @@ accessModel:
   - {url: 'https://www.pennymacfinancial.com', status: 301, note: 'declared website redirects to https://pfsi.pennymac.com/home/default.aspx — a different registrable domain (pennymacfinancial.com -> pennymac.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: ''
 tags:
-  - Financial-Services
+  - Financial Services
   - Mortgage
   - Lending
-  - Real-Estate
+  - Real Estate
 tags_raw:
   - Financial Services
   - Mortgage
   - Lending
   - Real Estate
+  - Financial-Services
+  - Real-Estate
 description: PennyMac Financial Services, Inc. is a specialty financial services firm focused on the production and servicing of U.S. residential mortgage loans. The company is one of the largest mortgage lenders and servicers in the United States, providing financing to homebuyers and refinancing to existing homeowners. PennyMac operates through correspondent, consumer direct, and broker channels.
 created: '2026-05-04'
 modified: '2026-05-04'
